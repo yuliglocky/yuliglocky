@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Cedarville+Cursive&pause=1000&color=5A5A4D&width=435&lines=Hello%2C+my+name+is+Yulianys+Cedeno)](https://git.io/typing-svg)
 
-<img src="https://github.com/yuliglocky/yuliglocky/blob/main/images/banner2.gif?raw=true" alt="Banner" width="90%" height="200">
+
 
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Cedarville+Cursive&pause=1000&color=5A5A4D&width=435&lines=Technologies+and+tools)](https://git.io/typing-svg)
