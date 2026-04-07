@@ -2,7 +2,7 @@
 
 
 
-<img alt="Night Coding" src="https://i.pinimg.com/736x/29/d9/ad/29d9ad482c0c23e31bb547e88d6529dd.jpg" width='500' align="left"/>
+<img alt="Night Coding" src="https://i.pinimg.com/1200x/d0/7b/19/d07b19c8fa280a6eb1322cea869cb3e9.jpg" width='300' align="left"/>
 
 
 ###  &nbsp;𝔄𝔟𝔬𝔲𝔱 𝔐𝔢
