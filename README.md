@@ -29,7 +29,7 @@
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff)
 ![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?logo=sqlite&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-039BE5?logo=Firebase&logoColor=white)
-<img alt="Night Coding" src="https://i.pinimg.com/736x/86/2a/7f/862a7f0e43149904f17daf1dc481911d.jpg" width='100'  align="right"/>
+
 
 
 ###  &nbsp;𝖁𝖊𝖗𝖘𝖎𝖔𝖓 𝕮𝖔𝖓𝖙𝖗𝖔𝖑𝖑 &amp; 𝕿𝖔𝖔𝖑𝖘
@@ -43,8 +43,10 @@
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)&nbsp;
 ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white)&nbsp;
 
+<h2 align="left"></h2>
 
 ###  &nbsp;𝕮𝖔𝖓𝖓𝖊𝖈𝖙 𝖜𝖎𝖙𝖍 𝕸𝖊
+<img alt="Night Coding" src="https://i.pinimg.com/736x/86/2a/7f/862a7f0e43149904f17daf1dc481911d.jpg" width='100'  align="right"/>
 
   <a href="https://www.linkedin.com/in/yulianys-cede%C3%B1o-997b87263/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
