@@ -4,7 +4,7 @@
 
 
 
-<img alt="Night Coding" src="https://i.pinimg.com/1200x/f0/cf/49/f0cf49f16f1c0413546f9b505f823bba.jpg" width='500' align="left"/>
+<img alt="Night Coding" src="https://i.pinimg.com/1200x/f0/cf/49/f0cf49f16f1c0413546f9b505f823bba.jpg" width='460' align="left"/>
 <!-- ## 👋 &nbsp;Hey there! I'm Aditya Kanoi -->
 
 ###  &nbsp;𝔄𝔟𝔬𝔲𝔱 𝔐𝔢
